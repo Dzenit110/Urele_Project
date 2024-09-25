@@ -20,6 +20,7 @@ Figure 2 Homepage
 <img width="392" alt="Screenshot_4" src="https://github.com/user-attachments/assets/09d07e3a-5af4-4c4e-8acc-1358026b59a6">
 <br>
 Figure 3 Registration Page
+<br><br>
 
 <img width="440" alt="Screenshot_3" src="https://github.com/user-attachments/assets/dac7ae7b-deee-4269-a1c9-13d4f284952a">
 <br>

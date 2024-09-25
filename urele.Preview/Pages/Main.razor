@@ -1,0 +1,11 @@
+﻿@page "/"
+@inject NavigationManager navman
+
+
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        navman.NavigateTo("https://urele.azurewebsites.net/");
+    }
+}

@@ -62,4 +62,4 @@ Figure 8: Display of groups the user can join
 <img src="https://github.com/user-attachments/assets/badccedd-421f-4c65-a048-48faa27c112a" width="60" height="50" alt="Description"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/96e49792-fcc0-4b83-962a-5b284a93eace" width="60" height="50" alt="BrandBlazor"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio"> &nbsp; &nbsp;
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>  &nbsp; &nbsp;

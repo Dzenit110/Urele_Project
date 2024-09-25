@@ -7,45 +7,45 @@ In general, aside from link shortening, the user has access to their data and st
 ## User Interface Examples
 
 <img width="911" alt="Screenshot_1" src="https://github.com/user-attachments/assets/7acffd61-36f4-410c-8d86-ce052d68e41a">
-
+<br>
 
 Figure 1 Page load display
 <br><br>
 
 <img width="955" alt="Screenshot_2" src="https://github.com/user-attachments/assets/62da4587-bcb2-4388-857c-9573fc19a385">
-
+<br>
 Figure 2 Homepage
 <br><br>
 
 <img width="392" alt="Screenshot_4" src="https://github.com/user-attachments/assets/09d07e3a-5af4-4c4e-8acc-1358026b59a6">
-
+<br>
 Figure 3 Registration Page
 
 <img width="440" alt="Screenshot_3" src="https://github.com/user-attachments/assets/dac7ae7b-deee-4269-a1c9-13d4f284952a">
-
+<br>
 Figure 4 Login Page
 <br><br>
 <img width="945" alt="Screenshot_5" src="https://github.com/user-attachments/assets/958ddb44-30bb-45c0-961c-29fd41d0f7a7">
-
+<br>
 
 Figure 5  Profil Information Page
 <br><br>
 
 <img width="673" alt="Screenshot_6" src="https://github.com/user-attachments/assets/2543506d-8869-43d7-969a-9ed807c6738b">
-
+<br>
 
 Figure 6 Display of groups and previously used links
 <br><br>
 
 
 <img width="638" alt="Screenshot_7" src="https://github.com/user-attachments/assets/5edd5d46-51ac-4484-bf57-a924be664397">
-
+<br>
 
 Figure 7 Display of group invitations the user has
 <br><br>
 
 <img width="605" alt="Screenshot_8" src="https://github.com/user-attachments/assets/9665a6a4-3df7-43b0-b874-7b15c8979ec9">
-
+<br>
 
 Figure 8 Display of groups the user can join
 <br><br>

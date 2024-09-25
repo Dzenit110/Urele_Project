@@ -49,4 +49,23 @@ Figure 8: Display of groups the user can join
 
 </div>
 <br><br>
+
 ## 🧰 Languages & Tools
+
+<img src="https://github.com/user-attachments/assets/06d94456-244c-4e4d-bf60-45d456418158" width="50" height="50" alt="C# (CSharp)"> &nbsp; &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">  &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/68c3dafc-786e-4545-9ec9-f1091b648f6e" width="80" height="60" alt="New Image"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/badccedd-421f-4c65-a048-48faa27c112a" width="60" height="50" alt="Description"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/96e49792-fcc0-4b83-962a-5b284a93eace" width="60" height="50" alt="BrandBlazor"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio"> &nbsp; &nbsp;
+| .NET HttpClient | <img src="https://img.icons8.com/ios-filled/50/000000/http-client.png" alt="HttpClient" width="50" height="50"/> &nbsp; &nbsp;
+| JSON | <img src="https://img.icons8.com/ios-filled/50/000000/json.png" alt="JSON" width="50" height="50"/> &nbsp; &nbsp;
+| Blazor | <img src="https://img.icons8.com/ios-filled/50/000000/blazor.png" alt="Blazor" width="50" height="50"/> &nbsp; &nbsp;
+| Microsoft ASP.NET | <img src="https://img.icons8.com/ios-filled/50/000000/asp-net.png" alt="ASP.NET" width="50" height="50"/> &nbsp; &nbsp;
+| JavaScript Interop | <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="50" height="50"/> &nbsp; &nbsp;
+| Preview | <img src="https://img.icons8.com/ios-filled/50/000000/preview.png" alt="Preview" width="50" height="50"/> &nbsp; &nbsp;
+
